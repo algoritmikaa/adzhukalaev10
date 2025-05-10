@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(55, 55, 196);
+    padding: 10px;
+}
+
+a {
+    background-color: orange;
+    text-decoration: none;
+    border-radius: 7px;
+    margin: 10px;
+    padding: 5px;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: red;
+}
+
+ul {
+    list-style: url("uploads/2021/01/Arrow%201_0_1611261359.svg");
+}
+
+.lord{
+     border-top: 5px solid black; 
+     border-bottom:  5px solid black; 
+     padding: 20px;
+}
+
+footer {
+    background-color: rgb(55, 55, 196) ;
+    padding: 3px;
+    color: white;
+    
+}
